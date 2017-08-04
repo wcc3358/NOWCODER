@@ -43,7 +43,7 @@ public class ToBeCoder01 {
 }
 
 /**
- * 方法2，使用Long
+ * 方法2，使用long
  */
 class Main {
     public static void main(String[] args) {
