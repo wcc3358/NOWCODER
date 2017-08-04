@@ -39,7 +39,7 @@ public class ToBeCoder02 {
             i++;
         }
         for (int j = 0; j < arr.length; j++) {
-            if((j+1)%10==0){
+            if((j+1)%10==0){//每隔10个数换行
                 System.out.println(arr[j]);
             }else{
                 if((j+1)==arr.length){
