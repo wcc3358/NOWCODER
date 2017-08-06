@@ -44,7 +44,7 @@ public class ToBeCoder06 {
         //对应的字母为 A B C D E F G
         StringBuilder sb = new StringBuilder(10);
 
-        //判断星期，找到第一个字符串的大写字母，并匹配第二个字符串，如果第二个字符串中含有该字母则将其作为星期
+        //判断星期
         int j = 0;
         for (int i = 0; i < len1; i++) {
             if(location0[i]<='Z'&&location0[i]>='A'){
